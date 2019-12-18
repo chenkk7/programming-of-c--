@@ -1,5 +1,5 @@
-<h1>C++程序设计 （2008版 主编刘振安） 课后编程练习题  自考课程代码4737 <h1>
-<h3>本人手打，如有不足请见谅。<h3><br>
+<h1>C++程序设计 （2008版 主编刘振安） 课后编程练习题 <h1>
+
 目录：<br>
 <a href="https://github.com/closer2018/programming-of-c--/tree/master/t1">第1章<br></a>
 <a href="https://github.com/closer2018/programming-of-c--/tree/master/t2">第2章<br></a>
